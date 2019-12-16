@@ -1,0 +1,28 @@
+.Player {
+    background: #b96ca2;
+    border: 1px solid rgb(85, 19, 63);
+    padding: 10px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Player__name {
+    width: 50%;
+}
+
+.Player__score {
+    width: 25%;
+}
+
+.Player__button {
+    width: 5%;
+    text-align: center;
+    background: #b96ca2;
+    cursor: pointer;
+    border: 1px solid rgb(85, 19, 63);
+}
+
+.Player__remove {
+    width: 15%;
+}

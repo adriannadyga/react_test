@@ -1,0 +1,26 @@
+.AddPlayer {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+
+    border: 1px solid #00bc8c;
+    padding: 10px;
+    background: #98f9c1;
+}
+
+.AddPlayer__input {
+    text-align: center;
+    width: 40%;
+    border: 1px solid #00bc8c;
+    height: 25px;
+    padding: 0 10px;
+    margin-right: 15px;
+}
+
+.AddPlayer__submit {
+    width: 15%;
+    text-align: center;
+    background: #b96ca2;
+    cursor: pointer;
+    border: 1px solid rgb(85, 19, 63);
+}
